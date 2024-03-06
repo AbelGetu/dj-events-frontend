@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "Throwback Thursdays with DJ Manny Duke",
+            "slug": "throwback-thursdays-with-dj-manny-duke-1",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "performers": "DJ Manny Duke",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+            "image": "/images/sample/event1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Throwback Thursdays with DJ Manny Duke",
+            "slug": "throwback-thursdays-with-dj-manny-duke-2",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "performers": "DJ Manny Duke",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+            "image": "/images/sample/event2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Throwback Thursdays with DJ Manny Duke",
+            "slug": "throwback-thursdays-with-dj-manny-duke-3",
+            "venue": "Horizon Club",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "performers": "DJ Manny Duke",
+            "date": "June 09, 2022",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+            "image": "/images/sample/event3.jpg"
+        }
+    ]
+}
